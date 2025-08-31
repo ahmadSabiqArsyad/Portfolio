@@ -39,6 +39,10 @@ body {
     color: rgb(180, 180, 180);
 }
 
+.navigasi li a:hover {
+    color: #ffffff;
+}
+
 .profile {
   display: flex;
   justify-content: space-between;
@@ -356,3 +360,4 @@ body {
     padding-top: 16px;
     margin: 0;
 }
+
